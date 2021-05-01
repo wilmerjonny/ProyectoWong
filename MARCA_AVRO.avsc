@@ -1,0 +1,9 @@
+{
+"namespace": "WONG",
+"name": "MARCA_AVRO",
+"type": "record",
+"fields": [
+	{"name": "ID_MARCA", "type": ["string", "null"]},
+	{"name": "NOM_MARCA", "type": ["string", "null"]}
+]
+}

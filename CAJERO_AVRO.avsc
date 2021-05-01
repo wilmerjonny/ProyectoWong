@@ -1,0 +1,10 @@
+{
+"namespace": "WONG",
+"name": "CAJERO_AVRO",
+"type": "record",
+"fields": [
+	{"name": "ID_CAJERO", "type": ["string", "null"]},
+	{"name": "NOM_VEND", "type": ["string", "null"]}
+	{"name": "ID_PUESTO", "type": ["string", "null"]}
+]
+}

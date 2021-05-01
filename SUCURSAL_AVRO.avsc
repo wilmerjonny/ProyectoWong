@@ -1,0 +1,10 @@
+{
+"namespace": "WONG",
+"name": "SUCURSAL_AVRO",
+"type": "record",
+"fields": [
+	{"name": "ID_SUCUR", "type": ["string", "null"]},
+	{"name": "NOM_SUCUR", "type": ["string", "null"]}
+	{"name": "DIRECCION", "type": ["string", "null"]}
+]
+}

@@ -1,0 +1,9 @@
+{
+"namespace": "WONG",
+"name": "FIDELIDAD_AVRO",
+"type": "record",
+"fields": [
+	{"name": "COD_FIDE", "type": ["string", "null"]},
+	{"name": "NOM_FIDELI", "type": ["string", "null"]}
+]
+}

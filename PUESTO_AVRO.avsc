@@ -1,0 +1,9 @@
+{
+"namespace": "WONG",
+"name": "PUESTO_AVRO",
+"type": "record",
+"fields": [
+	{"name": "ID_PUESTO", "type": ["string", "null"]},
+	{"name": "NOM_PUESTO", "type": ["string", "null"]}
+]
+}

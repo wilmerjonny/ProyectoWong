@@ -1,0 +1,15 @@
+{
+"namespace": "WONG",
+"name": "PRODUCTO_AVRO",
+"type": "record",
+"fields": [
+	{"name": "ID_PRODUCTO", "type": ["string", "null"]},
+	{"name": "NOM_PROD", "type": ["string", "null"]}
+	{"name": "ID_MACROCAT", "type": ["string", "null"]}
+	{"name": "ID_MARCA", "type": ["string", "null"]}
+	{"name": "PRECIO_VTA", "type": ["string", "null"]}
+	{"name": "FEC_VCTO", "type": ["string", "null"]}
+	{"name": "FEC_PROD", "type": ["string", "null"]}
+	{"name": "COSTO_PROD_REAL", "type": ["string", "null"]}
+]
+}

@@ -1,0 +1,9 @@
+{
+"namespace": "WONG",
+"name": "MACROCATEGORIA_AVRO",
+"type": "record",
+"fields": [
+	{"name": "ID_MACROCAT", "type": ["string", "null"]},
+	{"name": "NOM_CATE", "type": ["string", "null"]}
+]
+}

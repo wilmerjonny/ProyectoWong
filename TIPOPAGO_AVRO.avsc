@@ -1,0 +1,9 @@
+{
+"namespace": "WONG",
+"name": "TIPOPAGO_AVRO",
+"type": "record",
+"fields": [
+	{"name": "ID_TPAGO", "type": ["string", "null"]},
+	{"name": "ID_NOMPAGO", "type": ["string", "null"]}
+]
+}

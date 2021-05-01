@@ -1,0 +1,10 @@
+{
+"namespace": "WONG",
+"name": "FACTVENTACAJERO_AVRO",
+"type": "record",
+"fields": [
+	{"name": "ID_BOLETA", "type": ["string", "null"]},
+	{"name": "ID_CAJERO", "type": ["string", "null"]}
+	{"name": "COMISION", "type": ["string", "null"]}
+]
+}

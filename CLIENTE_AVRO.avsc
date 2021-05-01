@@ -1,0 +1,12 @@
+{
+"namespace": "WONG",
+"name": "CLIENTE_AVRO",
+"type": "record",
+"fields": [
+	{"name": "ID_CLIENTE", "type": ["string", "null"]},
+	{"name": "NOMBRE", "type": ["string", "null"]}
+	{"name": "COD_FIDE", "type": ["string", "null"]}
+	{"name": "SEXO", "type": ["string", "null"]}
+	{"name": "FEC_NACIMIENTO", "type": ["string", "null"]}
+]
+}
